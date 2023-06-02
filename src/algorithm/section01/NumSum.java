@@ -17,7 +17,7 @@ import java.util.Scanner;
 /**
  * 입력으로 주어진 숫자 n개의 합을 구한다
  */
-public class NumSum {
+class NumSum {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
